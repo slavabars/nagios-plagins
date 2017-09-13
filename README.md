@@ -1,1 +1,2 @@
-# nagios-plagins
+# Plagins
+Собран список плагинов для nagios
